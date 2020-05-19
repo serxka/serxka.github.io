@@ -5,5 +5,5 @@ permalink: /
 ---
 
 # Welcome
-
-static *tschhhhhhhhhhhhhh*
+nothin but static *tschhhhhhhhhhhhhh*
+![static](assets/static.gif)

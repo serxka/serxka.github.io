@@ -4,6 +4,18 @@ title: /about
 permalink: /about
 ---
 
-# programming
+# me
+me = milo
+me = serxka
 
-empty thoughts
+# thoughts
+## programme
+many thought - quite fun, c & rust
+## language
+occasional thought - conlangs are an object of intreset
+## manga
+daydream thought - much enjoyment found in manga
+## video game
+procrastination thought - i'll do it later
+## music
+passive thought - very much enjoy, only listen
