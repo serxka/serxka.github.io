@@ -9,5 +9,5 @@ categories:
 hello, i am milo. i use the online handle 'serxka'. i have no particular plans for these pages, perhaps i will post things of intrest? or maybe i will post guides. time will tell what will happen.
 
 <br>
-| ![a lain for vibes](/assets/lain.jpg) |
-| *a lain for vibes* |
+![a lain for vibes](/assets/lain.jpg){: .center-image }
+*a lain for vibes*

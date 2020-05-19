@@ -7,4 +7,4 @@ permalink: /
 # Welcome
 nothin but static *tschhhhhhhhhhhhhh*
 <br>
-| ![static](assets/static.gif) |
+![static](assets/static.gif){: .center-image }
