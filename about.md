@@ -4,11 +4,12 @@ title: /about
 permalink: /about
 ---
 
-# me
-me = milo
-me = serxka
+# i
+i = milo
+serxka = i
 
-# thoughts
+# my thoughts
+my thoughts on personally relevent things
 ## programme
 many thought - quite fun, c & rust
 ## language

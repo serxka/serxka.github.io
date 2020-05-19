@@ -6,4 +6,5 @@ permalink: /
 
 # Welcome
 nothin but static *tschhhhhhhhhhhhhh*
-![static](assets/static.gif)
+<br>
+| ![static](assets/static.gif) |
