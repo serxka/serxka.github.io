@@ -35,7 +35,6 @@ p {
 
 body {
 	background-color: var(--background-colour);
-	background-image: url('/assets/back.png');
 	color: var(--text-colour);
 	font-family: 'IBM Plex Mono', monospace;
 	font-size: 12.5px;
